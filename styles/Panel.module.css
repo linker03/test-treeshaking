@@ -1,0 +1,13 @@
+.root {
+  width: 200px;
+  height: 100px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 5px;
+
+  background-color: #e4e4e4;
+  border: 1px solid #adadad;
+  -webkit-box-shadow: 0 20px 70px rgba(0, 0, 0, 0.55);
+  -moz-box-shadow: 0 20px 70px rgba(0, 0, 0, 0.55);
+  box-shadow: 0 20px 70px rgba(0, 0, 0, 0.55);
+}
